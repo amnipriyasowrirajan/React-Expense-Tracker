@@ -1,0 +1,4 @@
+- Expense Tracker
+- Install Chakra UI
+  - npm i @chakra-ui/react @emotion/react @emotion/styled framer-motion react-icons react-apexcharts
+- create a theme.js for chakara UI
